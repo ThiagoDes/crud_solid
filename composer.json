@@ -1,0 +1,16 @@
+{
+    "name": "thiago-des/crud-solid",
+    "description": "Project focused on the use of solid principles.",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ThiagoDes",
+            "email": "thiagothic25@gmail.com"
+        }
+    ],
+    "require": {}
+}
