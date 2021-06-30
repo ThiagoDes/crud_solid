@@ -11,7 +11,7 @@ $dashboard = true;
             <div class="page-wrapper">
                 <div class="page-body">
                     <div class="row">
-                        <h2>OIII</h2>
+                        <h2></h2>
                     </div>
                 </div>
             </div>
